@@ -8,7 +8,7 @@ EasyCreate提供可视化的界面，让用户能够快速创建、发行和管�
 
 ##  **EasyCreate支持的EVM链包括 Ethereum、BSC、Polygon、Arbitrum、Optimism、Base**
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./Image/homepage.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./Image/Image_homepage.png)
 
 ### 💰代币工具
 <table data-view="cards">
