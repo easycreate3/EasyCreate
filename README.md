@@ -99,7 +99,7 @@ EasyCreate提供可视化的界面，让用户能够快速创建、发行和管�
 
 * **💬 技术支持**：[点击联络技术支持](https://t.me/easycreate17)
 
-* **💻 GitHub**：[访问 GitHub 官方仓库](https://github.com/easycreate/docs/EasyCreateTool/readme.md)
+* **💻 GitHub**：[访问 GitHub 官方仓库](https://github.com/easycreate3/EasyCreate)
 
 
 EasyCreate 凭借多年行业经验，支持Ethereum、BSC、Polygon、Arbitrum、Optimism、Base等多公链部署，提供从代币创建、批量空投到代币管理的全链路工具，界面可视化，操作简单便捷，是目前区块链发币的最佳选择。
